@@ -1,0 +1,1 @@
+gcc tutoral1.c -lavformat -lavdevice -lavcodec -lavutil -lpthread -lswscale -g
